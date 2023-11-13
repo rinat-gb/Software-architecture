@@ -11,7 +11,7 @@ namespace Editor3D.ModelElements
         public PoligonalModel(List<Texture> textures) {
             Poligons = new List<Poligon>
             {
-                new Poligon(new Point3D())
+                new(new Point3D())
             };
 
             Textures = textures;
