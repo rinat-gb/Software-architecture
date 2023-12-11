@@ -18,7 +18,7 @@
 
 - `id`
 - `name`: название CPU (i3, i5, i7, Ryzen)
-- t`ype`: тип CPU  (i3, i5, i7, Ryzen)
+- `type`: тип CPU  (i3, i5, i7, Ryzen)
 
 Таблица `CPU_Frequency`
 
